@@ -28,3 +28,5 @@ You need the following python package for Analysis:
 
 # Acknowledgement 
 Massive, heartfelt thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey this year. We value your generous participation more than you know. <3
+
+If you're interested in my Medium post, please to the following link: [Medium Post](https://medium.com/@zzy98y/stackoverflow-2019-survey-analysis-340f8d1ddbb8)
